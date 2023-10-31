@@ -1,0 +1,7 @@
+//
+// Created by KAVOSH on 10/30/2023.
+//
+#ifndef EDATANKS__TANK_CONTR_H
+#define EDATANKS__TANK_CONTR_H
+
+#endif //EDATANKS__TANK_CONTR_H
